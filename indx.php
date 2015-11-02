@@ -6,7 +6,7 @@
 <body>
 <p>
     <?php
-    echo "shit";
+    echo "shkit";
     ?>
 </p>
 </body>
